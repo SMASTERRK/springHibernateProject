@@ -1,0 +1,46 @@
+input[type=submit] {
+	background-color: #4CAF50;
+	color: white;
+	padding: 8px 12px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+#pre {
+	background-color: #00BFFF;
+	color: white;
+	padding: 8px 14px;
+	margin: 6px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+body {
+    background-image: url("../Images/jayate_wallpaper.jpg");
+}
+h1{
+	font-family: 'Architects Daughter';font-size: 28px;
+	text-align: center;	
+}
+h3 {
+	color: blue;
+	text-align: center;
+}
+
+h4 {
+	color: red;
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+h2 {
+	color: black;
+	text-align: left;
+}
+c {
+	border: 1px solid blue
+}
